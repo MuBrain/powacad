@@ -3,7 +3,7 @@ title: A propos
 description: This is a documentation page.
 permalink: /apropos.html
 
-layout: post
+layout: page
 ---
 
 ## Section one
