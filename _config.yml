@@ -3,8 +3,8 @@ title: This is the site title
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github:
-  organization: 18F
-  repository: federalist-uswds-template
+  organization: MuBrain
+  repository: powacad
   default_branch: master
 
 # Configuration for Google Analytics, add your UA code here:
