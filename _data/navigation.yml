@@ -17,7 +17,7 @@ primary:
   - text: Cours
     links:
       - text: PL900 Fondamentaux Power Platform
-        href: /pl900/
+        href: /pl-900/
   - text: A propos
     href: /apropos.html
 
