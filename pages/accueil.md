@@ -7,8 +7,8 @@ layout: home
 hero:
   image: /assets/uswds/img/hero.png
   callout:
-    alt: "Hero callout:"
-    text: Page personnalisée
+    alt: "Nouveau cursus:"
+    text: PL-900 Fondamentaux Power Platform
   button:
     href: /callout/
     text: This is a call to all my
