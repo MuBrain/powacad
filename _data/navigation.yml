@@ -18,8 +18,6 @@ primary:
     links:
       - text: PL900 Fondamentaux Power Platform
         href: /pl900/
-  - text: Auteurs
-    links: footer
   - text: A propos
     href: /apropos.html
 
@@ -46,7 +44,7 @@ secondary:
 #    href: https://18f.gsa.gov
 #    external: true
 
-#footer:
+footer:
 #  - text: Documentation
 #    href: /docs/
 #  - text: Demo link
