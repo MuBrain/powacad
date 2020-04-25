@@ -12,27 +12,16 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
+  - text: Accueil
+    href: /
+  - text: Cours
     links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-      - text: Demo link D
-        href: /two/a/
-      - text: Demo link E
-        href: /two/b/
-      - text: Demo link F
-        href: /two/c/
-  - text: Referenced section
+      - text: PL-900 Fondamentaux Power Platform
+        href: /pl-900/
+  - text: Auteurs
     links: footer
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
+  - text: A propos
+    href: /apropos.html
 
 secondary:
   - text: Documentation
@@ -57,48 +46,48 @@ docs:
     href: https://18f.gsa.gov
     external: true
 
-footer:
-  - text: Documentation
-    href: /docs/
-  - text: Demo link
-    href: /demo/
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
+#footer:
+#  - text: Documentation
+#    href: /docs/
+#  - text: Demo link
+#    href: /demo/
+#  - text: A propos
+#    href: /apropos.html
+    
 # Uncomment the items below and comment the items above in the `footer` list
 # to use footer link columns in the 'big' footer style.
-  # - text: Documentation
-  #   links:
-  #     - text: Overview
-  #       href: /docs/
-  #     - text: Secondary documentation page
-  #       href: /docs/two/
-  #     - text: Tertiary docs
-  #       href: /docs/three/
-  # - text: Navigation section
-  #   links:
-  #     - text: Demo link A
-  #       href: /two/a/
-  #     - text: Demo link B
-  #       href: /two/b/
-  #     - text: Demo link C
-  #       href: /two/c/
-  # - text: Referenced section
-  #   links:
-  #     - text: Demo link A
-  #       href: /three/a/
-  #     - text: Demo link B
-  #       href: /three/b/
-  #     - text: Demo link C
-  #       href: /three/c/
-  # - text: External links
-  #   links:
-  #     - text: 18F
-  #       href: https://18f.gsa.gov
-  #       external: true
-  #     - text: Technology Transformation Service
-  #       href: https://join.tts.gsa.gov/
-  #       external: true
-  #     - text: code.gov
-  #       href: https://code.gov/
-  #       external: true
+   - text: Documentation
+     links:
+       - text: Overview
+         href: /docs/
+       - text: Secondary documentation page
+         href: /docs/two/
+       - text: Tertiary docs
+         href: /docs/three/
+   - text: Navigation section
+     links:
+       - text: Demo link A
+         href: /two/a/
+       - text: Demo link B
+         href: /two/b/
+       - text: Demo link C
+         href: /two/c/
+   - text: Referenced section
+     links:
+       - text: Demo link A
+         href: /three/a/
+       - text: Demo link B
+         href: /three/b/
+       - text: Demo link C
+         href: /three/c/
+   - text: External links
+     links:
+       - text: 18F
+         href: https://18f.gsa.gov
+         external: true
+       - text: Technology Transformation Service
+         href: https://join.tts.gsa.gov/
+         external: true
+       - text: code.gov
+         href: https://code.gov/
+         external: true
