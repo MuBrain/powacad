@@ -10,7 +10,7 @@ github_info:
 
 # Configuration for setting the site width to 100%
 # To enable, uncomment the following line
-site_width: wide
+# site_width: wide
 
 # Configuration for Google Analytics, add your UA code here:
 # google_analytics_ua: UA-????????-??
@@ -34,8 +34,8 @@ anchor_js_targets: [h1, h2, h3, h4, h5, h6]
 collections:
    cours:
      output: true
-#   team:
-#     output: true
+   auteurs:
+     output: true
 
 # Compress Sass
 sass:
