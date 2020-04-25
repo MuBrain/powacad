@@ -10,17 +10,6 @@ intro: |
 
   Use the right side of the grid to explain the tagline a bit more. What are your goals? How do you do your work? Write in the present tense, and stay brief here. People who are interested can find details on internal pages.
 
-graphics:
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Avantage 1
-    description: Présentation du premier avantage.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Avantage 2
-    description: Présentation du deuxième avantage.
 ---
 
 # Fondamentaux Power Platform
