@@ -1,10 +1,10 @@
 ---
-title: Documentation
-description: This is a documentation page.
+title: Plan pédagogique
+description: Le plan pédagogique du cursus PL-900.
 permalink: /pl-900/plan-pedagogique.html
 
 layout: post
-sidenav: docs
+sidenav: courses
 subnav:
   - text: Section one
     href: '#section-one'
