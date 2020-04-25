@@ -5,12 +5,12 @@ description: Parce qu'apprendre est un plaisir.
 # This is used for adding an edit this page link to the footer
 github_info:
   organization: MuBrain
-  repository: uswds-jekyll
+  repository: 
   default_branch: master
 
 # Configuration for setting the site width to 100%
 # To enable, uncomment the following line
-# site_width: wide
+site_width: wide
 
 # Configuration for Google Analytics, add your UA code here:
 # google_analytics_ua: UA-????????-??
@@ -20,7 +20,7 @@ github_info:
 
 # Uncomment to enable AnchorJS functionality on docs layout.
 # See https://github.com/bryanbraun/anchorjs for more information.
-# anchor_js_targets: [h1, h2, h3, h4, h5, h6]
+anchor_js_targets: [h1, h2, h3, h4, h5, h6]
 
 # To enable search, uncomment the search section
 # You will need to setup a search account with search.gov
@@ -31,9 +31,9 @@ github_info:
 
 # Configuration for projects and team collections
 # See https://jekyllrb.com/docs/collections/ for more information about collections.
-# collections:
-#   projects:
-#     output: true
+collections:
+   cours:
+     output: true
 #   team:
 #     output: true
 
