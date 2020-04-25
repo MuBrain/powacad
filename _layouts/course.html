@@ -5,7 +5,7 @@ layout: page
 
 <aside class="usa-layout-docs-sidenav sidenav {% if page.sticky_sidenav %}usa-sticky-sidenav{% endif %}">
   <ul class="usa-sidenav-list">
-    {% for item in site.course %}
+    {% for item in site.courses %}
       <li>
         {% if page.permalink == item.permalink %}
           <a class="usa-current" href="{{ item.permalink | prepend: site.baseurl }}">{{ item.title }}</a>
