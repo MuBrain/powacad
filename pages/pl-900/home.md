@@ -1,6 +1,6 @@
 ---
-title: Home
-permalink: /
+title: PL-900 Home
+permalink: /pl-900/
 
 layout: home
 
