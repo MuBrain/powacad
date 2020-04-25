@@ -1,5 +1,5 @@
 ---
-title: PL-900 Home
+title: PL-900 | Plan de cours
 permalink: /pl-900/
 
 layout: course
@@ -16,7 +16,7 @@ intro: |
 
 - Niveau du cours: 100 - Introduction et découverte des fonctionnalités
 - Préparation à l'examen: PL-900 de Microsoft
-- [Programme pédagogique](programme-pedagogique)
+- [Programme pédagogique](/pl-900/plan-pedagogique.html)
 
 ## Plan du cours
 1. Introduction
