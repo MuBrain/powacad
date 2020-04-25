@@ -27,6 +27,10 @@ secondary:
   - text: Theme
     href: /theme/
 
+courses:
+  - text: Introduction
+    href: /courses/
+
 #docs:
 #  - text: Sidenav Documentation
 #    href: /docs/
