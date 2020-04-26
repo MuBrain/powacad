@@ -1,18 +1,16 @@
 ---
-title: PL-900 | Plan de cours
+title: PL-900 Fondamentaux Power Platform
 permalink: /pl-900/
 
 layout: page
 
-tagline: PL-900 Fondamentaux Power Platform
+tagline: Introduction à la Power Platform de Microsoft
 intro: |
   Texte d'introcduction au cours, au niveau de difficulté et à la valeur du cours.
 
   Use the right side of the grid to explain the tagline a bit more. What are your goals? How do you do your work? Write in the present tense, and stay brief here. People who are interested can find details on internal pages.
 
 ---
-
-# Fondamentaux Power Platform
 
 - Niveau du cours: 100 - Introduction et découverte des fonctionnalités
 - Préparation à l'examen: PL-900 de Microsoft
