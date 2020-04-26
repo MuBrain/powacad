@@ -10,6 +10,12 @@ intro: |
 
   Use the right side of the grid to explain the tagline a bit more. What are your goals? How do you do your work? Write in the present tense, and stay brief here. People who are interested can find details on internal pages.
 
+sidenav: courses
+subnav:
+  - text: Section one
+    href: '#section-one'
+  - text: Section two
+    href: '#section-two'
 ---
 
 - Niveau du cours: 100 - Introduction et découverte des fonctionnalités
