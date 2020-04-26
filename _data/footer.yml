@@ -3,13 +3,13 @@
 # Configuration for type of footer.
 # Footer types can be 'slim', 'medium', or 'big'.
 # https://designsystem.digital.gov/components/footers/
-type: medium
+type: big
 
 # Configuration for "Return to top" link.
 # Customize with 'text' and 'href' properties.
 # Comment out to the following section to hide.
 top:
-  text: Return to top
+  text: Retour en haut de la page
   href: '#'
 
 # Configuration for "Edit this page" link in the footer.
@@ -20,7 +20,7 @@ top:
 
 # Configuration for "Last updated" date and time.
 # Uncomment the following line to show.
-# last_updated: true
+last_updated: true
 
 # Configuration for which links show at the top of the footer.
 # this is a key into _data/navigation.yml
@@ -29,10 +29,10 @@ links: footer
 # Configuration for the big footer's email sign-up form.
 # Set to true to make the form visible.
 # Hooking it up to send the data somewhere is up to you :)
-big_footer_signup_form: false
+big_footer_signup_form: true
 
 # Configuration for footer heading. (optional)
-heading: Name of agency
+heading: PowAcad
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
@@ -65,7 +65,7 @@ contact:
   heading: Agency contact center
 # Configuration for contact links for email, phone, etc...
   contact_links:
-    - text: (800) CALL-GOVT
-      href: tel:1-800-555-5555
-    - text: info@agency.gov
-      href: mailto:info@agency.gov
+    - text: (514) 516-3290
+      href: tel:1-514-516-3290
+    - text: info@powacad.com
+      href: mailto:info@powacad.com
