@@ -12,10 +12,24 @@ intro: |
 
 sidenav: courses
 subnav:
-  - text: Section one
-    href: '#section-one'
-  - text: Section two
-    href: '#section-two'
+  - text: 1. Introduction
+    href: '###1. Introduction'
+  - text: 2. La "Power Plaform"
+    href: '###1. Introduction'
+  - text: 3. Les environnements
+    href: '###1. Introduction'
+  - text: 4. La base de données
+    href: '###1. Introduction'
+  - text: 5. Connecter les services
+    href: '###1. Introduction'
+  - text: 6. Développer une application
+    href: '###1. Introduction'
+  - text: 7. Automatiser
+    href: '###1. Introduction'
+  - text: 8. Visualiser
+    href: '###1. Introduction'
+  - text: 9. Conclusion
+    href: '###1. Introduction'
 ---
 
 - Niveau du cours: 100 - Introduction et découverte des fonctionnalités
@@ -23,15 +37,15 @@ subnav:
 - [Programme pédagogique](/pl-900/plan-pedagogique.html)
 
 ## Plan du cours
-1. Introduction
-2. La "Power Plaform"
-3. Les environnements
-4. La base de données
-5. Connecter les services
-6. Développer une application
-7. Automatiser
-8. Visualiser
-9. Conclusion
+###1. Introduction
+###2. La "Power Plaform"
+###3. Les environnements
+###4. La base de données
+###5. Connecter les services
+###6. Développer une application
+###7. Automatiser
+###8. Visualiser
+###9. Conclusion
 
 
 ## Prérequis:
