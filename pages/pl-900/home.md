@@ -2,7 +2,7 @@
 title: PL-900 | Plan de cours
 permalink: /pl-900/
 
-layout: sidenav-page
+layout: page
 
 tagline: PL-900 Fondamentaux Power Platform
 intro: |
