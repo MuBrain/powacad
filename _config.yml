@@ -32,12 +32,15 @@ anchor_js_targets: [h1, h2, h3, h4, h5, h6]
 # Configuration for projects and team collections
 # See https://jekyllrb.com/docs/collections/ for more information about collections.
 collections:
-   course:
+   cours:
      output: true
-     permalink: /:collection/:title
-   membre:
+     permalink: /cours/:title
+   auteurs:
      output: true
-     permalink: /:collection/:title
+     permalink: /auteurs/:title
+   partenaires:
+     output: true
+     permalink: /partenaires/:title
 
 # Compress Sass
 sass:
