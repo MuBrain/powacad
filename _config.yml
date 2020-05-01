@@ -34,13 +34,13 @@ anchor_js_targets: [h1, h2, h3, h4, h5, h6]
 collections:
    cours:
      output: true
-     permalink: /cours/:title
+     permalink: /cours/:path/
    auteurs:
      output: true
-     permalink: /auteurs/:title
+     permalink: /auteurs/:path/
    partenaires:
      output: true
-     permalink: /partenaires/:title
+     permalink: /partenaires/:path/
 
 # Compress Sass
 sass:
