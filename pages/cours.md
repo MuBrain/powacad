@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Cours dispoibles
+layout: page
+title: Cours disponibles
 permalink: /cours.html
 ---
 
