@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cours
 title: Cours disponibles
 permalink: /cours.html
 ---
