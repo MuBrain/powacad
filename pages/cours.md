@@ -11,5 +11,7 @@ permalink: /cours.html
 </a>
 
 <p class="post-excerpt">{{ cours.description | truncate: 160 }}</p>
+cours.level
+cours.examen
 
 {% endfor %}  
