@@ -1,15 +1,14 @@
 ---
 title: Plan pédagogique
+permalink: "/pl-900/plan-pedagogique.html"
 description: Le plan pédagogique du cursus PL-900.
-permalink: /pl-900/plan-pedagogique.html
-
 layout: post
 sidenav: courses
 subnav:
-  - text: Section one
-    href: '#section-one'
-  - text: Section two
-    href: '#section-two'
+- text: Section one
+  href: "#section-one"
+- text: Section two
+  href: "#section-two"
 ---
 
 # Fondamentaux Power Platform

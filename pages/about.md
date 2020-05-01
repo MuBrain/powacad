@@ -1,8 +1,7 @@
 ---
 title: A propos
+permalink: "/apropos.html"
 description: This is a documentation page.
-permalink: /apropos.html
-
 layout: page
 ---
 

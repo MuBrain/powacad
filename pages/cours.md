@@ -1,7 +1,7 @@
 ---
-layout: cours
 title: Cours disponibles
-permalink: /cours.html
+permalink: "/cours.html"
+layout: cours
 ---
 
 {% for cours in site.cours %}

@@ -1,15 +1,14 @@
 ---
 title: Documentation
+permalink: "/docs/"
 description: This is a documentation page.
-permalink: /docs/
-
 layout: post
 sidenav: docs
 subnav:
-  - text: Section one
-    href: '#section-one'
-  - text: Section two
-    href: '#section-two'
+- text: Section one
+  href: "#section-one"
+- text: Section two
+  href: "#section-two"
 ---
 
 ## Section one

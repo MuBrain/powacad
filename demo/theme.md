@@ -1,7 +1,8 @@
 ---
+permalink: "/theme/"
 layout: page
-permalink: /theme/
 ---
+
 # Links
 
 [This](javascript:void(0);) is a text link on a light background.

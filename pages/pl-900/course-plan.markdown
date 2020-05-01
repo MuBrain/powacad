@@ -1,15 +1,14 @@
 ---
 title: Documentation
+permalink: "/pl-900/course-plan.html"
 description: This is a documentation page.
-permalink: /pl-900/course-plan.html
-
 layout: post
 sidenav: docs
 subnav:
-  - text: Section one
-    href: '#section-one'
-  - text: Section two
-    href: '#section-two'
+- text: Section one
+  href: "#section-one"
+- text: Section two
+  href: "#section-two"
 ---
 
 ## Section one
