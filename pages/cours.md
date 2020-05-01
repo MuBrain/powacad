@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cours dispoibles
-patch: /cours.html
+permalink: /cours.html
 ---
 
 {% for cours in site.cours %}
